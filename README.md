@@ -137,6 +137,7 @@ Through this project, I improved my skills in:
 # Author
 
 **Ranjith A R**
+
 📧 [24ranjith2003@gmail.com](mailto:24ranjith2003@gmail.com)  
 🌐 [Portfolio](https://ranjith-nayak.github.io)  
 💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
