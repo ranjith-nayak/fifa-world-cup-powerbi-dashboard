@@ -137,7 +137,17 @@ Through this project, I improved my skills in:
 # Author
 
 **Ranjith A R**
-GitHub: 
-Linkedin: "https://www.linkedin.com/in/ranjith-a-r"
+📧 [24ranjith2003@gmail.com](mailto:24ranjith2003@gmail.com)  
+🌐 [Portfolio](https://ranjith-nayak.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
+💻 [GitHub](https://github.com/ranjith-nayak)
 
 ---
+
+## 📄 License
+This project is licensed under the APACHE 2.0 License.
+
+---
+
+⭐ *If you found this project interesting, consider giving it a star on GitHub!*
+
