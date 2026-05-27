@@ -79,13 +79,15 @@ The dashboard uses FIFA-related datasets including:
 
 ## FIFA World Cup Analytics Dashboard
 
-(Add Screenshot Here)
+<img width="1309" height="735" alt="Screenshot 2026-05-26 145445" src="https://github.com/user-attachments/assets/da5cc488-b111-4fdc-8ad6-292c7674f0fb" />
+
 
 ---
 
 ## FIFA Global Rankings Dashboard
 
-(Add Screenshot Here)
+<img width="1311" height="736" alt="Screenshot 2026-05-26 145507" src="https://github.com/user-attachments/assets/7cea59a8-f05b-4de8-a61e-6c94ee80ec48" />
+
 
 ---
 
